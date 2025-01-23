@@ -23,8 +23,7 @@
 - Run server application through write `npm start` in `CMD`
 ![Desktop Screenshot 2025 01 23 - 15 27 05 72](https://github.com/user-attachments/assets/9592ea7e-bf12-42c5-ae7b-9630b222e711)
 
-## Step 9: Request a htp://localhost:3000 on brwoser.
-[htp://localhost:3000](htp://localhost:3000)
+## Step 9: Request a [http://localhost:3000](http://localhost:3000) on brwoser.
 ![New tab and 7 more pages - Work - Microsoft​ Edge 1_23_2025 3_32_57 PM](https://github.com/user-attachments/assets/00ce2897-692e-4ad0-b572-f63d6e09c6cf)
 
 
