@@ -1,4 +1,4 @@
-# Steps To Run a Unity WebGL Build on a Web Server
+# Steps To Run a Unity WebGL Build on a Local Web Server
 
 ## Step 1: Ensure you have installed the `NodeJS Runtime Environment` on your PC.
 [Download NodeJS](https://nodejs.org/en/download)
@@ -26,7 +26,6 @@
 ## Step 9: Request a [http://localhost:3000](http://localhost:3000) on brwoser.
 ![New tab and 7 more pages - Work - Microsoft​ Edge 1_23_2025 3_32_57 PM](https://github.com/user-attachments/assets/00ce2897-692e-4ad0-b572-f63d6e09c6cf)
 
-
 ## Step 10: Enjoy.
 
-
+Notice: You should return Compression Format to default value when you need to deploy your build on a web server with sll certificate "https".
